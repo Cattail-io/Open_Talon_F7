@@ -11,3 +11,7 @@
 * 5V 2A BEC MPQ4420  
 * Pit mode switch  
 
+  Preview:  
+  ![alt-текст][board]
+
+[board]: https://github.com/Cattail-io/Open_Talon_F7/blob/master/preview3d.png "3D View"
