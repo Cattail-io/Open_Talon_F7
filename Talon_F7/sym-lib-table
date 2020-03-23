@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name SparkFun-DigitalIC)(type Legacy)(uri F:/electronics/job/Talon_F7/Talon_F7_kicad/Talon_F7/sch_lib/SparkFun-DigitalIC.lib)(options "")(descr ""))
+  (lib (name Talon)(type Legacy)(uri F:/electronics/job/Talon_F7/Talon_F7_kicad/Talon_F7/sch_lib/Talon.lib)(options "")(descr ""))
+  (lib (name BMP388)(type Legacy)(uri F:/electronics/job/Talon_F7/Talon_F7_kicad/Talon_F7/sch_lib/BMP388.lib)(options "")(descr ""))
+  (lib (name MIC5319-3.3YD5-TR)(type Legacy)(uri ${KIPRJMOD}/sch_lib/MIC5319-3.3YD5-TR.lib)(options "")(descr ""))
+  (lib (name switch_voltage_regulator)(type Legacy)(uri ${KIPRJMOD}/sch_lib/switch_voltage_regulator.lib)(options "")(descr ""))
+  (lib (name Talon_F7-rescue)(type Legacy)(uri ${KIPRJMOD}/Talon_F7-rescue.lib)(options "")(descr ""))
+)
